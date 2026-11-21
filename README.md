@@ -48,3 +48,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📊 GitHub Stats & Badges
+
+<p align="left">
+  <a href="https://github.com/suyash321">
+    <img src="https://github-readme-stats.vercel.app/api?username=suyash321&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true" alt="Suyash's GitHub stats" />
+  </a>
+  <a href="https://github.com/suyash321">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash321&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/suyash321">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash321&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
